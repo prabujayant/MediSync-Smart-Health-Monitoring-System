@@ -6,8 +6,7 @@ As the global population ages, the need for efficient and effective elderly care
 Elderly individuals are often affected by chronic diseases such as diabetes, hypertension, and heart conditions. Continuous monitoring of these conditions is crucial to prevent complications and manage health effectively. Proper medication management is a significant challenge among the elderly. Forgetting to take prescribed medications or taking incorrect doses can lead to serious health risks. 
 
 ### Abstract
-[Link](https://docs.google.com/document/d/1CyR793l1uM6Yu6-okgESQ8n0AqfIz_lb68LDQHXDal8/edit?usp=sharing)
-
+MediSync is an innovative smart health monitoring system designed to address the growing need for effective elderly care solutions. As the global population ages, managing chronic diseases and ensuring proper medication adherence become critical challenges. MediSync leverages advanced IoT sensors and AI algorithms to provide continuous, real-time monitoring of vital signs such as heart rate, oxygen saturation, and body temperature. The system features a user-friendly interface and a mobile application for medication reminders, personalized health insights, and emergency alerts. By integrating wearable devices and a robust communication platform, MediSync empowers elderly individuals and their caregivers with timely, actionable health data, ultimately enhancing the quality of care and promoting independent living.
 
 ## Overview
 <p align = "justify">
