@@ -281,7 +281,7 @@ void loop() {
 }
 ```
 ## Dashboard
-![image](https://github.com/Prabu1717/MediSync-Smart-Health-Monitoring-System-for-Elderly-Care-with-Medication-Reminder/blob/main/assets/medisync_dashboard.png)
+![image](https://github.com/Prabu1717/MediSync-Smart-Health-Monitoring-System/blob/main/Assets/medisync_dashboard.png)
 
 ## Video
 [MediSync Product Demo](https://drive.google.com/file/d/1KefmGBYEHOlIXaXR9JIy-E3E5xa_ijS1/view?usp=drive_link)
