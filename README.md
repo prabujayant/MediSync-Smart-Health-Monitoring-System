@@ -20,7 +20,7 @@ The project showcased here introduces an innovative solution utilising several h
 <li><b>ESP8266 WIFI module</b>: Enables connection transmission of sensor data to the cloud using Wifi.</li>
 </ul>
 
-![image](https://github.com/Prabu1717/MediSync-Smart-Health-Monitoring-System-for-Elderly-Care-with-Medication-Reminder/blob/main/assets/Brochure.png)
+![image]([https://github.com/Prabu1717/MediSync-Smart-Health-Monitoring-System-for-Elderly-Care-with-Medication-Reminder/blob/main/assets/Brochure.png](https://github.com/Prabu1717/MediSync-Smart-Health-Monitoring-System/blob/main/Assets/Brochure.png))
 
 ## Bill of Materials
 
