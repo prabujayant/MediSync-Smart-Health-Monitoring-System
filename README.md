@@ -75,7 +75,7 @@ The project showcased here introduces an innovative solution utilising several h
 ## Finished Product
 ![Smart Health Product](https://github.com/Prabu1717/MediSync-Smart-Health-Monitoring-System/blob/main/Assets/smart%20health%20prod.jpeg)
 
-![image](https://github.com/Prabu1717/MediSync-Smart-Health-Monitoring-System-for-Elderly-Care-with-Medication-Reminder/blob/main/assets/shzeropcb.jpeg)
+![image](https://github.com/Prabu1717/MediSync-Smart-Health-Monitoring-System/blob/main/Assets/shzeropcb.jpeg)
 
 ## Objectives
 <ul>
