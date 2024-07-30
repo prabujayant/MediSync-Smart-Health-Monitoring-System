@@ -70,12 +70,12 @@ The project showcased here introduces an innovative solution utilising several h
 
 
 ## Interfacing Diagram
-![image](https://github.com/Prabu1717/MediSync-Smart-Health-Monitoring-System-for-Elderly-Care-with-Medication-Reminder/blob/main/assets/Final%20nodemcu%20circ.jpeg)
+![image]([https://github.com/Prabu1717/MediSync-Smart-Health-Monitoring-System-for-Elderly-Care-with-Medication-Reminder/blob/main/assets/Final%20nodemcu%20circ.jpeg](https://github.com/Prabu1717/MediSync-Smart-Health-Monitoring-System/blob/main/Assets/Final%20nodemcu%20circ.jpeg))
 
 ## Finished Product
-![image](https://github.com/Prabu1717/MediSync-Smart-Health-Monitoring-System-for-Elderly-Care-with-Medication-Reminder/blob/main/assets/smart%20health%20prod.jpeg)
+![image]([https://github.com/Prabu1717/MediSync-Smart-Health-Monitoring-System-for-Elderly-Care-with-Medication-Reminder/blob/main/assets/smart%20health%20prod.jpeg](https://github.com/Prabu1717/MediSync-Smart-Health-Monitoring-System/blob/main/Assets/smart%20health%20prod.jpeg))
 
-![image](https://github.com/Prabu1717/MediSync-Smart-Health-Monitoring-System-for-Elderly-Care-with-Medication-Reminder/blob/main/assets/shzeropcb.jpeg)
+![image][(https://github.com/Prabu1717/MediSync-Smart-Health-Monitoring-System-for-Elderly-Care-with-Medication-Reminder/blob/main/assets/shzeropcb.jpeg)](https://github.com/Prabu1717/MediSync-Smart-Health-Monitoring-System/blob/main/Assets/shzeropcb.jpeg)
 
 ## Objectives
 <ul>
@@ -281,7 +281,7 @@ void loop() {
 }
 ```
 ## Dashboard
-![image](https://github.com/Prabu1717/MediSync-Smart-Health-Monitoring-System-for-Elderly-Care-with-Medication-Reminder/blob/main/assets/medisync_dashboard.png)
+![image][(https://github.com/Prabu1717/MediSync-Smart-Health-Monitoring-System-for-Elderly-Care-with-Medication-Reminder/blob/main/assets/medisync_dashboard.png)](https://github.com/Prabu1717/MediSync-Smart-Health-Monitoring-System/blob/main/Assets/medisync_dashboard.png)
 
 ## Video
 [MediSync Product Demo](https://drive.google.com/file/d/1KefmGBYEHOlIXaXR9JIy-E3E5xa_ijS1/view?usp=drive_link)
